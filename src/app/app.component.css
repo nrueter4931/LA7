@@ -1,0 +1,8 @@
+.app-main-grid {
+    display: grid;
+    height: 100vw;
+    width: 100vw;
+    justify-items: center;
+    align-items: center;
+    background-color: #444343;
+}
